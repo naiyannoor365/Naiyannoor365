@@ -37,6 +37,12 @@
 
 - ⚡ Fun fact **Always Want To Learn More 📚**
 
+
+### ⚙️ &nbsp;Certificates
+ 
+<img align="center" alt="Coding" width="830" 
+   src="https://github.com/naiyannoor365/Naiyannoor365/blob/main/Certificates/Cer22.png">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naiyannoor" height="30" width="40" /></a>
