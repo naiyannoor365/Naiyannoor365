@@ -1,3 +1,4 @@
+<!--
 <img src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan150201018.gif">
 
 ![masterhead](https://1.bp.blogspot.com/-744wynwlsmw/xbbpcxg8fhi/aaaaaaaamt4/u0a1bplskygrwgb11h5u25dj_mig85x3qclcbgasyhq/s1600/2000_600px.gif)
@@ -131,4 +132,4 @@ a>
 ![Naiyan Noor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naiyannoor&custom_title=Naiyan%20Noor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## Achievements:
-[![@kochie's Holopin board](https://holopin.me/naiyannoor)](https://holopin.io/@naiyannoor)
+[![@kochie's Holopin board](https://holopin.me/naiyannoor)](https://holopin.io/@naiyannoor)  -->
